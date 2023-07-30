@@ -1,0 +1,14 @@
+@media screen and (max-width:560px) {
+    .menu ul{
+        flex-direction: column;
+    }
+    .headingclass{
+        padding: 0px;
+     }
+    .boxop{
+        flex-direction: column;
+        justify-content: center;
+       
+        padding:0px;
+    }
+}
